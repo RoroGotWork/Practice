@@ -1,0 +1,16 @@
+name: PracticePlugin
+version: 1.0
+author: Rorocraft
+main: fr.rorocraft.practice.Main
+commands:
+  duel:
+    description: Commande de duel
+  spec:
+    description: Permet au joueur d'être spectateur
+  hub: 
+    description: Permet au  joueur d'aler au hub   
+    aliases: lobby
+  edit:
+    description: Permet d'enregistrer son inventaire  
+  createarena:
+    description: Création d'une arene
